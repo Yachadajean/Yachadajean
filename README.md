@@ -62,12 +62,6 @@ Computer Science Student
 
 <br>
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yachadajean&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yachadajean&layout=compact&theme=tokyonight)
-<br>
-
 # 📫 Contact
 
 📧 yachada.jean47@gmail.com
