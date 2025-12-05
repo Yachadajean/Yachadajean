@@ -42,7 +42,7 @@ Computer Science Student
 
 - Separate backend + frontend (GitHub Pages + API server)
 
-***🔗 Add your repo link here***
+***🔗[LINK](https://github.com/Yachadajean/elderly_monitoring_system)***
 
 
 ## 📦 Project 2: Lost & Found Web Application
@@ -59,7 +59,7 @@ Computer Science Student
 
 - Clean UI with item detail page
 
-***🔗 Add your repo link here***
+***🔗[LINK](https://github.com/Yachadajean/lostnfound)***
 
 <br>
 
