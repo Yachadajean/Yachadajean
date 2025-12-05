@@ -70,4 +70,4 @@ Computer Science Student
 
 # 📫 Contact
 
-📧 yachada.jean47@email.com
+📧 yachada.jean47@gmail.com
