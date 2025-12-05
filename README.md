@@ -27,7 +27,8 @@ Computer Science Student
 
 # 🚀 Featured Projects
 ## 🟦 Project 1: Elderly Monitoring System
-<img src="YOUR_PROJECT_IMAGE_LINK_1" width="100%" alt="fall detection screenshot"/>
+<img src="https://github.com/Yachadajean/Yachadajean/blob/main/fall.png" width="50%" alt="fall detection screenshot"/>
+<img src="https://github.com/Yachadajean/Yachadajean/blob/main/abnormal.png" width="50%" alt="abnormal gait screenshot"/>
 
 ### Tech: TSM (Le2i), Abnormal Gait Model (GAVD), Flask API (api.falldetection.me), React UI (falldetection.myvnc.com), Firebase FCM
 
@@ -45,7 +46,7 @@ Computer Science Student
 
 
 ## 📦 Project 2: Lost & Found Web Application
-<img src="YOUR_PROJECT_IMAGE_LINK_2" width="100%" alt="lost and found webapp"/>
+<img src="https://github.com/Yachadajean/Yachadajean/blob/main/lostnfound.png" width="50%" alt="lost and found webapp"/>
 
 ### Tech: Flask + Firebase + MySQL
 ### Features:
