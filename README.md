@@ -17,7 +17,7 @@ Computer Science Student
 # 🛠 Tech Stack
 
 ## Languages
-<img src="https://skillicons.dev/icons?i=py,js,cpp,c,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=py,nodejs,js,cpp,c,html,css,bash" />
 
 
 ## Frameworks & Tools
