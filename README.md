@@ -63,6 +63,20 @@ Computer Science Student
 
 <br>
 
+## 🛶 Project 3: Canoe Sway Analysis System (Ongoing)
+
+### Tech: 
+C++, IMU (accelerometer/gyroscope), Signal Processing, Butterworth Filter, Zero-Crossing & Peak Detection
+### Highlights:
+- Built a full C++ pipeline for filtering, segmentation, and IMU waveform analysis
+- Extracts stroke metrics: timing, energy, acceleration profiles, velocity patterns
+- Generates structured Excel reports and visualization plots
+- Currently developing ML models for arrival-time prediction and automatic cutoff frequency selection
+
+***🔗LINK***
+
+<br>
+
 # 📫 Contact
 
 📧 yachada.jean47@gmail.com
