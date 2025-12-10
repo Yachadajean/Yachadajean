@@ -73,7 +73,7 @@ C++, IMU (accelerometer/gyroscope), Signal Processing, Butterworth Filter, Zero-
 - Generates structured Excel reports and visualization plots
 - Currently developing ML models for arrival-time prediction and automatic cutoff frequency selection
 
-***🔗LINK***
+***🔗[LINK](https://github.com/Yachadajean/dragon-boat)***
 
 <br>
 
